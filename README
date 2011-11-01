@@ -1,0 +1,20 @@
+input data:
+HH WW
+MATRIX
+
+where
+	HH - height of matrix
+	WW - width of matrix
+	MATRIX - "+-"-matrix
+
+each \n after MATRIX - next step
+
+example:
+07 07
++-+-+-+
+-+-+-+-
++-+-+-+
+-+-++-+
+-+-+-+-
++++----
+-+-+++-
